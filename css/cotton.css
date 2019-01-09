@@ -1,0 +1,101 @@
+body { font:12px Arial,Verdana ; line-height: 140%;}
+img, table, td, th { border:0;}
+select, input, textarea{ font-size:12px;}
+a { #13a; text-decoration: none;}
+a:hover { #13a; text-decoration:none;}
+
+/*navi*/
+#navi {z-index:1;width:80%; height:80px; margin-top:5px; margin-left: 0px; overflow:hidden;position: absolute;}
+#navi em { padding:0 6px; color:#666; }
+#navi div { width:950px; margin:0 auto; }
+#navi p#message { text-align: left;}
+
+.odd
+ {
+  background-color:#D5F5FF;
+ }
+ .even
+ {
+  background-color:#69C6E5;
+ }
+
+
+ 
+ 
+ 
+/*µ×²¿ÐÅÏ¢*/
+#foot {z-index:1;width:950px; height:80px; margin-top:5px; overflow:hidden; position: absolute;}
+#foot #count{text-align: right;padding-bottom: 10px }
+#foot div { width:950px; margin:0 auto; text-align: center;}
+#foot p#message { text-align: center;}
+#foot em { padding:0 10px; color:#666; }
+
+
+.dataSt
+{
+text-align: left; 
+font-weight:bold;
+ 
+}
+.dataSt th {
+		color: #4f6b72;
+		text-align: center; 
+		border-right: 1px solid #C1DAD7;
+		border-bottom: 1px solid #C1DAD7;
+		border-top: 1px solid #C1DAD7;		
+		text-transform: uppercase;		
+		padding: 6px 6px 6px 12px;
+		background:#FEC923   no-repeat;
+}
+.dataSt .jishu
+{
+  background:#592A8A; /*purple*/
+  color:#FFFFFF;
+}
+
+
+.dataSt .oushu /*yellow*/
+{
+
+  background:#FEC923;
+  color:#592A8A
+}
+
+
+.dataSt td {
+border-bottom: 1px solid #C1DAD7;
+font-size:11px;
+padding: 6px 6px 6px 12px;
+
+}
+
+
+.tablesorter
+{ font-size:13px;
+font-weight:bold;
+
+}
+
+ .over1 {
+        background:#bcd4ec;   
+        cursor:pointer;
+}
+
+
+
+.detailedEST
+{ 
+	font-weight:bold;
+	text-align:left;
+	width:15%;
+	vertical-align:top;
+}
+
+
+.detailedESThover
+ {
+ background-color:#FFF000;
+ }   
+.ESThover
+ { color:#FF0000;
+ }   
