@@ -93,11 +93,11 @@ require_once 'class/MyStatistics.php';
   </tr>
 </table>
 <div id="fragment-3">
-  <form name="blast" method="post" action="type=reference">
+  <form name="blast" method="post" action="?type=reference">
     <table  align='center' border="0" width="950px">
 	  <tr>
         <td align='left'><b>RefFinder</b>
-          is a user-friendly web-based comprehensive tool developed  for evaluating and screening reference genes from extensive experimental datasets. It integrates the currently available major computational programs (<b>geNorm</b>, <b>Normfinder</b>, <b>BestKeeper</b>, and <b>the comparative ¦¤Ct method</b>) to compare and rank the tested candidate reference genes. Based on the rankings from each program, It assigns an appropriate weight to an individual gene and calculated the geometric mean of their weights for the overall final ranking. Please cite <b><a  href="http://www.ncbi.nlm.nih.gov/pubmed/22290409">F Xie, P Xiao, D Chen, L Xu, B Zhang. 2012. miRDeepFinder: a miRNA analysis tool for deep sequencing of plant small RNAs. Plant molecular biology 80 (1), 75-84.</a></b></br>
+          is a user-friendly web-based comprehensive tool developed  for evaluating and screening reference genes from extensive experimental datasets. It integrates the currently available major computational programs (<b>geNorm</b>, <b>Normfinder</b>, <b>BestKeeper</b>, and <b>the comparative Â¦Â¤Ct method</b>) to compare and rank the tested candidate reference genes. Based on the rankings from each program, It assigns an appropriate weight to an individual gene and calculated the geometric mean of their weights for the overall final ranking. Please cite <b><a  href="http://www.ncbi.nlm.nih.gov/pubmed/22290409">F Xie, P Xiao, D Chen, L Xu, B Zhang. 2012. miRDeepFinder: a miRNA analysis tool for deep sequencing of plant small RNAs. Plant molecular biology 80 (1), 75-84.</a></b></br>
         </td>
       </tr>
       <tr>
