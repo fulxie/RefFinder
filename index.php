@@ -93,7 +93,7 @@ require_once 'class/MyStatistics.php';
   </tr>
 </table>
 <div id="fragment-3">
-  <form name="blast" method="post" action="?type=reference">
+  <form name="blast" method="post" action="type=reference">
     <table  align='center' border="0" width="950px">
 	  <tr>
         <td align='left'><b>RefFinder</b>
