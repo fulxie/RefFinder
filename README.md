@@ -17,15 +17,15 @@ Here is the way how to set up RefFinder to XAMPP on Windows and run it locally:
 2. double click xampp-windows-x64-7.4.8-0-VC15-installer.exe to install XAMPP with default settings. 
   XAMPP includes servers (Apache, MySQL, FileZilla FTP server, Mercury Mail Server, and Tomcat), program languages (PHP and Perl), and others.
   
-  a. Here only select Apache and PHP
+	a. Here only select Apache and PHP
   
-  b. Choose a folder to install XAMPP, eg: "D:\XAMPP"
+	b. Choose a folder to install XAMPP, eg: "D:\XAMPP"
   
-  c. Click "Next", "Next", ...
+	c. Click "Next", "Next", ...
   
-  d. Finally, click "Finish" and launch XAMPP Control panel (XAMPP Control panel can be also opened by clicking D:\XAMPP\XAMPP-control.exe)
+	d. Finally, click "Finish" and launch XAMPP Control panel (XAMPP Control panel can be also opened by clicking D:\XAMPP\XAMPP-control.exe)
   
-  e. Start Apache (Click Apache's "Start" and you will see the ports like "80, 443")
+	e. Start Apache (Click Apache's "Start" and you will see the ports like "80, 443")
 
 3. Download RefFinder's source code from https://github.com/fulxie/RefFinder/archive/master.zip
 4. Unzip RefFinder-master.zip and copy RefFinder-master folder to "htdocs" of XAMPP installation folder (eg: D:\XAMPP\htdocs\RefFinder-master). 
