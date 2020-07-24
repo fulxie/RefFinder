@@ -16,6 +16,7 @@ Here is the way how to set up RefFinder to XAMPP on Windows and run it locally:
 
 2. double click xampp-windows-x64-7.4.8-0-VC15-installer.exe to install XAMPP with default settings. 
   XAMPP includes servers (Apache, MySQL, FileZilla FTP server, Mercury Mail Server, and Tomcat), program languages (PHP and Perl), and others.
+  
   a. Here only select Apache and PHP
   
   b. Choose a folder to install XAMPP, eg: "D:\XAMPP"
